@@ -1,0 +1,5 @@
+.idea/
+DeZero/
+PyTorch/
+data/
+model_weights.pth
